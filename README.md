@@ -1,6 +1,9 @@
 # intellidesign
 
 mobile app to generate a floor plan design .
+Our mobile phone application utilizes artificial intelligence to generate floorplans based on user input.
+By simply providing the application with room dimensions and desired layout, users can easily create customized floorplans for their homes or businesses.
+
 
 ## Getting Started
 
