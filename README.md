@@ -1,6 +1,6 @@
 # intellidesign
 
-A new Flutter project.
+mobile app to generate a floor plan design .
 
 ## Getting Started
 
